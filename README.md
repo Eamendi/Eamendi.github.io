@@ -1,33 +1,25 @@
 # Eamendi.github.io
 create
-This is an HTML webpage that is designed for Anita's kitchen
+This is an HTML webpage 
 
 done by Edgar Amendi
 
 Description
 
-This is a  webpage  for Anita's kitchen listing services and products  provided   <<<<<<< HEAD
+This is a  webpage  giving detailed informatio about Edgar Amendi as an individual  
 
-8dec45dbeed9d2df4f9ae007832fa861ec3e3f61
 Setup/Installation Requirements
 
-open browser
-visit https://Eamendi.github.io/Eamendi/
-<<<<<<< HEAD
+open browser visit https://Eamendi.github.io Support and contact details
 
-=======
-
-8dec45dbeed9d2df4f9ae007832fa861ec3e3f61
-Support and contact details
-
-Edgar: omindeame@gmail.com
+Edgar Amendi: omindeame@gmail.com
 
 Technologies Used
 
-This site was designed using HTML, CSS, Bootstrap.
+This site was designed using HTML, CSS and Bootstrap. View the source code at https://github.com/Eamendi
 
 License
 
-This site is Licensed under the MIT licensing
+Licensed under GNU General Public Lincense licensing
 
 Copyright (c) 2017 Eamendi
